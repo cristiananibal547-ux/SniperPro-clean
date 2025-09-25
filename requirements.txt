@@ -1,4 +1,4 @@
-pythontelegrambot20.6
+python-telegram-bot20.6
 yfinance
 pandas
 numpy
